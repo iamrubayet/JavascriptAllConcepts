@@ -1382,7 +1382,7 @@ export default me
 require
 //71 - NPM
 
-
+npm install
 //72 - Parcel
 73 - Date Picker
 #project 09
