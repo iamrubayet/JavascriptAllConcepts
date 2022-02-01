@@ -1384,6 +1384,8 @@ require
 
 npm install
 //72 - Parcel
+
+bundler
 73 - Date Picker
 #project 09
 74 - Shopping Cart
