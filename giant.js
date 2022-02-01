@@ -1344,7 +1344,21 @@ buttons.foreach(button=>{
 		console.log("clicked button")
 	})
 })
-64 - Browser Storage
+//64 - Browser Storage
+
+//local/session/cookie
+
+localStorage.setItem("name","kyle")
+
+
+sessionStorage.removeItem("name","kyle")
+
+document.cookie = "name=ruba"
+
+
+
+
+
 65 - Advanced Todo List
 #project 06
 66 - Expand Collapse Introduction
