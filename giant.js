@@ -1368,10 +1368,18 @@ document.cookie = "name=ruba"
 #project 08
 
 --------------------------------------------------------------------------------------------------
-69 - ES6 Modules
-70 - Node Modules
-71 - NPM
-72 - Parcel
+//69 - ES6 Modules
+
+
+type = module
+
+import me from ./user.js
+
+export default me
+
+//70 - Node Modules
+//71 - NPM
+//72 - Parcel
 73 - Date Picker
 #project 09
 74 - Shopping Cart
